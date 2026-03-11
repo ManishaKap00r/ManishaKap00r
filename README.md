@@ -13,12 +13,12 @@ Currently pursuing a Master's in Artificial Intelligence at Penn State while exp
 
 ## Technologies
 
-- C#
-- ASP.NET Core
-- Python
-- SQL
-- Entity Framework
-- REST APIs
+- Python (NumPy, Pandas, Scikit-learn)
+- Machine Learning & AI Algorithms
+- Data Analysis & Visualization
+- REST API Design
+- Software Architecture (Clean Architecture, CQRS)
+- SQL & Data Modeling
 
 ## Selected Projects
 
