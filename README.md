@@ -23,7 +23,7 @@ Currently pursuing a Master's in Artificial Intelligence at Penn State while exp
 ## Selected Projects
 
 - inventory-tracking-api  
-  Inventory management REST API built with ASP.NET Core, Clean Architecture, and CQRS.
+  Inventory management REST API demonstrating Clean Architecture and CQRS design patterns.
 
 - blackjack-mcts-ai801 (private repository)  
   Blackjack simulation using Monte Carlo Tree Search built for AI coursework.
