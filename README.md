@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Manisha Kapoor
 
-<!--
-**ManishaKap00r/ManishaKap00r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer with 11+ years of experience building backend systems with .NET and C#.
 
-Here are some ideas to get you started:
+Currently pursuing a Master's in Artificial Intelligence at Penn State while exploring AI/ML engineering and data science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+- Machine Learning
+- Backend architecture
+- AI systems
+- Data analytics
+
+## Technologies
+
+- C#
+- ASP.NET Core
+- Python
+- SQL
+- Entity Framework
+- REST APIs
+
+## Selected Projects
+
+- inventory-tracking-api  
+  Inventory management REST API built with ASP.NET Core, Clean Architecture, and CQRS.
+
+- blackjack-mcts-ai801  
+  Blackjack simulation using Monte Carlo Tree Search built for AI coursework.
