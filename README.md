@@ -25,5 +25,5 @@ Currently pursuing a Master's in Artificial Intelligence at Penn State while exp
 - inventory-tracking-api  
   Inventory management REST API built with ASP.NET Core, Clean Architecture, and CQRS.
 
-- blackjack-mcts-ai801  
+- blackjack-mcts-ai801 (private repository) 
   Blackjack simulation using Monte Carlo Tree Search built for AI coursework.
