@@ -25,5 +25,10 @@ Currently pursuing a Master's in Artificial Intelligence at Penn State while exp
 - inventory-tracking-api  
   Inventory management REST API demonstrating Clean Architecture and CQRS design patterns.
 
+- vynues-platform-manisha (private repository)
+  AI powered event planning software platform to automate complex supply chains for life's most important celebrations
+
 - blackjack-mcts-ai801 (private repository)  
   Blackjack simulation using Monte Carlo Tree Search built for AI coursework.
+
+
