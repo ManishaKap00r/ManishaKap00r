@@ -15,6 +15,8 @@ Currently pursuing a Master's in Artificial Intelligence at Penn State while exp
 
 - Python (NumPy, Pandas, Scikit-learn)
 - Machine Learning & AI Algorithms
+- FastAPI, OpenAI API
+- Railway Deployment
 - Data Analysis & Visualization
 - REST API Design
 - Software Architecture (Clean Architecture, CQRS)
