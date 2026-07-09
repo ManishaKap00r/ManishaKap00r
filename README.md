@@ -1,36 +1,89 @@
-# Hi, I'm Manisha Kapoor
+# Hi, I'm Manisha Kapoor 👋
 
-Software engineer with 11+ years of experience building backend systems with .NET and C#.
+## AI Software Engineer | M.S. Artificial Intelligence Candidate at Penn State University
 
-Currently pursuing a Master's in Artificial Intelligence at Penn State while exploring AI/ML engineering and data science.
+I'm a software engineer with 11+ years of experience building enterprise backend systems and APIs, currently transitioning into AI Software Engineering and Machine Learning.
 
-## Interests
+My recent work focuses on developing intelligent software systems using Python, FastAPI, Scikit-learn, and modern software architecture principles to solve real-world business problems.
 
-- Machine Learning
-- Backend architecture
-- AI systems
-- Data analytics
+---
+
+## Current Focus
+
+- 🤖 AI Software Engineering
+- 🧠 Machine Learning
+- 🐍 Python
+- ⚡ FastAPI
+- 📊 Feature Engineering
+- 🌐 REST APIs
+- 🏗️ Software Architecture
+
+---
+
+## Featured Project
+
+### Supplier Intelligence Platform
+
+An end-to-end machine learning-powered supplier recommendation platform built with Python, FastAPI, and Scikit-learn.
+
+Highlights include:
+
+- Machine learning-based recommendation engine
+- Feature engineering for supplier compatibility
+- FastAPI REST API
+- Modular service-oriented architecture
+- Business, Logical, and Technical architecture documentation
+- End-to-end recommendation workflow
+
+Repository:
+
+➡️ **Supplier Intelligence Platform**
+
+---
+
+## Other Projects
+
+### Blackjack Decision Engine
+
+Monte Carlo Tree Search implementation for probabilistic decision optimization.
+
+### Inventory Tracking API
+
+RESTful backend API demonstrating modern backend architecture and API development.
+
+---
 
 ## Technologies
 
-- Python (NumPy, Pandas, Scikit-learn)
-- Machine Learning & AI Algorithms
-- FastAPI, OpenAI API
-- Railway Deployment
-- Data Analysis & Visualization
-- REST API Design
-- Software Architecture (Clean Architecture, CQRS)
-- SQL & Data Modeling
+**Languages**
 
-## Selected Projects
+Python • SQL • C#
 
-- inventory-tracking-api  
-  Inventory management REST API demonstrating Clean Architecture and CQRS design patterns.
+**Frameworks**
 
-- vynues-platform-manisha (private repository)  
-  AI powered event planning software platform to automate complex supply chains for life's most important celebrations
+FastAPI • .NET
 
-- blackjack-mcts-ai801 (private repository)  
-  Blackjack simulation using Monte Carlo Tree Search built for AI coursework.
+**Machine Learning**
 
+Scikit-learn • TensorFlow/Keras • pandas • NumPy
 
+**Development**
+
+Git • Docker • REST APIs • Microservices
+
+---
+
+## Education
+
+🎓 **Penn State University**
+
+Master of Science in Artificial Intelligence
+
+(Expected 2027)
+
+---
+
+## Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/manisha-kapoor-ai
+- GitHub: https://github.com/ManishaKap00r
