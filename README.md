@@ -32,7 +32,7 @@ I enjoy building production-style software by combining software engineering wit
 
 ---
 
-## Featured Project
+## Featured Projects
 
 ### Supplier Intelligence Platform
 
